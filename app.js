@@ -135,7 +135,7 @@ function getRandomProduct() {
 
 function updateTotals() {
 
-    var pageshow = document.getElementById('productsTable');
+    var pageshow = document.getElementById('listProduct');
 
     pageshow.innerHTML = '';
 
