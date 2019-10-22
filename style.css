@@ -10,11 +10,13 @@ body {
 header {
 
  text-align: center;
- border: 3px dashed navy;
  background-color: orchid;
- color: navy;
+ color: rgb(147, 147, 229);
  border-radius: 10px;
 }
+
+
+
 #products-container {
 
 color: rgb(29, 2, 29);
@@ -43,11 +45,8 @@ div img {
 
 main h1 {
 
- border: 5px solid rgb(243, 70, 151);
- background-color: rgb(139, 143, 143);
  text-align: center;
  padding: 30px;
- border-radius: 20px;
 }
 
 #productsTable {
@@ -68,7 +67,7 @@ main h1 {
 ul {
  border: rgb(248, 4, 98);
  padding: 5px;
- background: darkblue;
+ background: rgb(218, 133, 235);
 }
 
 
@@ -77,10 +76,8 @@ ul {
 header {
 
   text-align: center;
-  border: 3px dashed rgb(176, 176, 216);
-  background-color: rgb(122, 9, 119);
+  background-color: rgb(119, 89, 228);
   color: #5f5a5f;
-  border-radius: 10px;
 }
 #products-container {
 
