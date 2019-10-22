@@ -1,4 +1,7 @@
-body {
+div .cite {color: red}
+
+
+/* body {
 
   background-color: paleturquoise;
  color: rgb(230, 14, 140); 
@@ -76,13 +79,15 @@ ul {
 header {
 
   text-align: center;
-  background-color: rgb(119, 89, 228);
-  color: #5f5a5f;
+  background-color: rgb(238, 237, 241);
+  color: #e706b7;
 }
+
+
 #products-container {
 
 color: rgb(167, 9, 167);
-background-color: rgb(125, 63, 170);
+background-color: rgb(239, 243, 14);
 }
 
 
@@ -90,4 +95,4 @@ background-color: rgb(125, 63, 170);
 ul {
   border: rgb(248, 4, 98);
   padding: 5px;
-}
+} */
